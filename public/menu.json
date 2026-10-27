@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Zinger Burger",
+    "category": "Fast Food",
+    "price": 450,
+    "description": "Crispy chicken burger with fresh lettuce and sauce.",
+    "image": "https://placehold.co/400x250?text=Zinger+Burger"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Pizza",
+    "category": "Pizza",
+    "price": 700,
+    "description": "Delicious chicken pizza topped with cheese.",
+    "image": "https://placehold.co/400x250?text=Chicken+Pizza"
+  },
+  {
+    "id": 3,
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 200,
+    "description": "Golden crispy fries served with ketchup.",
+    "image": "https://placehold.co/400x250?text=French+Fries"
+  },
+  {
+    "id": 4,
+    "name": "Cold Coffee",
+    "category": "Drinks",
+    "price": 250,
+    "description": "Chilled coffee served with a creamy taste.",
+    "image": "https://placehold.co/400x250?text=Cold+Coffee"
+  },
+  {
+    "id": 5,
+    "name": "Club Sandwich",
+    "category": "Fast Food",
+    "price": 350,
+    "description": "Fresh sandwich filled with chicken and vegetables.",
+    "image": "https://placehold.co/400x250?text=Club+Sandwich"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Shake",
+    "category": "Drinks",
+    "price": 300,
+    "description": "Rich chocolate milkshake served chilled.",
+    "image": "https://placehold.co/400x250?text=Chocolate+Shake"
+  }
+]
